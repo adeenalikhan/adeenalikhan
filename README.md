@@ -11,6 +11,14 @@
 
 - 👯 I’m looking to collaborate on **Frontend, Shopify and Automation**
 
+
+
+
+<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="200" height="200">
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adeenalikhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeenalikhan/" height="30" width="40" /></a>
@@ -43,7 +51,6 @@
 
 
 
-<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="200" height="200">
 
 
 
