@@ -34,8 +34,8 @@
 
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+![](https://komarev.com/ghpvc/?username=adeenalikhan&style=flat)
+[![Github](https://img.shields.io/badge/-adeenalikhan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 
 
