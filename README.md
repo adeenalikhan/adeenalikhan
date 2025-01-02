@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adeen</h1>
-<h3 align="center">A passionate frontend RPA and Shopify Developer.</h3>
+<h3 align="center">A passionate RPA and Shopify Developer.</h3>
 
 - 🔭 I’m currently working on **Various Shopify and Automation projects**
 
