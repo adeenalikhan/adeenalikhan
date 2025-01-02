@@ -53,14 +53,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=adeenalikhan&style=flat)
+[![Github](https://img.shields.io/badge/-adeenalikhan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/AdeenAliKhan)
 
 <br/>
 
 
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=adeenalikhan&style=flat)
-[![Github](https://img.shields.io/badge/-adeenalikhan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/adeenalikhan)
 
 <br>
 
