@@ -14,10 +14,12 @@
 
 - 👯 I’m looking to collaborate on **Frontend, Shopify and Automation**
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy meeting new people</b>, so feel free to drop by and say <b>hello—I'd love to get to know you better!</b> 😊</em>
 
 
-
-<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="200" height="150" align="right">
+<!-- <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="200" height="150" align="right"> -->
+<!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 
 
