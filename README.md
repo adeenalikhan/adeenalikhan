@@ -58,7 +58,11 @@
 
 
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=adeenalikhan&style=flat)
 [![Github](https://img.shields.io/badge/-adeenalikhan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
