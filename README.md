@@ -1,5 +1,4 @@
 
-<img src= "https://www.linkedin.com/in/adeenalikhan/">
 
 
 
