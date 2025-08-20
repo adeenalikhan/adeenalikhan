@@ -12,7 +12,7 @@
 <h3 align="center">A passionate AI Automation Expert | RPA Specialist.</h3>
 
 - 🔭 Expert in designing and deploying end-to-end automation solutions that streamline workflows, boost efficiency, and accelerate digital transformation. Proficient across leading automation platforms including Power Automate, UiPath, Make.com, and n8n, with strong expertise in RPA, process orchestration, and system integration. Experienced in applying AI-driven automation and DevOps practices to create scalable, cost-effective, and intelligent business solutions.
-- 
+  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy meeting new people</b>, so feel free to drop by and say <b>hello—I'd love to get to know you better!</b> 😊</em>
 
 
